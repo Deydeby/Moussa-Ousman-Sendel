@@ -1,0 +1,8 @@
+com\example\core\views\ClientView.class
+com\example\core\data\Enum\EnumDette.class
+com\example\core\repositories\ClientRepository.class
+com\example\Main.class
+com\example\core\data\entities\Dette.class
+com\example\core\services\ClientService.class
+com\example\core\data\entities\Client.class
+com\example\core\repositories\DetteRepo.class
